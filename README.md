@@ -2,7 +2,7 @@
 
 A macOS Sequoia-inspired theme for [Omarchy](https://omarchy.org/).
 
-![Sequoia](backgrounds/1-sequoia-dark.webp)
+![Sequoia dark desktop](screenshots/dark.png)
 
 ## Install
 
