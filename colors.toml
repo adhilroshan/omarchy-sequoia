@@ -1,0 +1,37 @@
+mode = "dark"
+
+# macOS Sequoia, dark mode. Apple's system palette with the default blue accent
+# in place of the default blue.
+accent = "#0A84FF"
+selection = "#1A3A5C"
+muted = "#8E8E93"
+
+background = "#1E1E1E"
+dark_background = "#161616"
+darker_background = "#0F0F0F"
+lighter_background = "#2C2C2E"
+
+foreground = "#EBEBF5"
+dark_foreground = "#8E8E93"
+light_foreground = "#C7C7CC"
+bright_foreground = "#FFFFFF"
+
+# A hairline on the focused window, nothing on the rest, near-invisible on the rest.
+hyprland_active_border = "rgba(ffffff26)"
+hyprland_inactive_border = "rgba(ffffff10)"
+
+red = "#FF453A"
+yellow = "#FFD60A"
+orange = "#FF9F0A"
+green = "#30D158"
+cyan = "#64D2FF"
+blue = "#0A84FF"
+magenta = "#BF5AF2"
+brown = "#AC8E68"
+
+bright_red = "#FF6961"
+bright_yellow = "#FFD426"
+bright_green = "#3BE077"
+bright_cyan = "#7CE0FF"
+bright_blue = "#3B9EFF"
+bright_magenta = "#DA8AFF"
